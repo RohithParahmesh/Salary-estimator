@@ -6,5 +6,7 @@ This is a repository containing an ML WebApp project that uses real world data t
 3) years of exprience
 
 Source of datasets:
-[`https://insights.stackoverflow.com/survey/2020`]
-[`https://insights.stackoverflow.com/survey]`
+
+https://insights.stackoverflow.com/survey/2020
+
+https://insights.stackoverflow.com/survey
